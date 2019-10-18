@@ -8,7 +8,7 @@ namespace NickNames.Models
     {
         private static Dictionary<string, HashSet<string>> Persons = new Dictionary<string, HashSet<string>>();
 
-        public DataBase() 
+        public DataBase()
         {
         }
 
@@ -17,7 +17,6 @@ namespace NickNames.Models
             // TODOWS
             // if realName exists, append nickname
             // if not, create & append nickname
-
         }
 
         public HashSet<string> GetNickNames(string realName)
