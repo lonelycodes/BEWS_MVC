@@ -34,7 +34,6 @@ namespace NickNames.Controllers
             // TODOWS
             // get nickNames from DB
             // add nickNames to ViewData
-            ViewData["NickNames"] = db.GetNickNames(realName);
             return View();
         }
 

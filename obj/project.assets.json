@@ -12077,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/watabo/Work/BEWS/MVC/NickNames/NickNames.csproj",
+      "projectUniqueName": "/Users/watabo/Work/BEWS/MVC/NickNamesTutorial/NickNames.csproj",
       "projectName": "NickNames",
-      "projectPath": "/Users/watabo/Work/BEWS/MVC/NickNames/NickNames.csproj",
+      "projectPath": "/Users/watabo/Work/BEWS/MVC/NickNamesTutorial/NickNames.csproj",
       "packagesPath": "/Users/watabo/.nuget/packages/",
-      "outputPath": "/Users/watabo/Work/BEWS/MVC/NickNames/obj/",
+      "outputPath": "/Users/watabo/Work/BEWS/MVC/NickNamesTutorial/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
